@@ -15,4 +15,4 @@ LUA script for the Duck Dodgers Nintendo 64 game. Allows toggling between normal
 - Controls can be modified at the start of the .lua script
 
 ## Disclaimer
-- This tool was written for educational purposes ONLY. All referenced work belongs to their rightful owners.
+- This tool was written in a collaborative effort for educational purposes ONLY. All referenced work belongs to their rightful owners.
